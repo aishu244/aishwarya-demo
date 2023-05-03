@@ -9,6 +9,14 @@ public class DemoTest {
 		System.out.println("this is demo framework........");
 		
 		System.out.println(" hi this is maven project workspace...///.");
+		
+		System.out.println(" this is user 2 -eclipse automation tester");
+		
+		
+		
+		
+		
+		
 	}
 
 }
