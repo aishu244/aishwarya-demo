@@ -12,6 +12,8 @@ public class DemoTest {
 		
 		System.out.println(" this is user 2 -eclipse automation tester");
 		
+		System.out.println(" aishwarya going to pulling");
+		
 		
 		
 		
